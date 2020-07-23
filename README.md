@@ -1,4 +1,4 @@
-# test-api
+# todo-app with vuex
 
 ## Project setup
 ```
